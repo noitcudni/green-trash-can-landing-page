@@ -58,6 +58,9 @@ Or Check out [Full Documentation](https://docs.gethugothemes.com/influencer/?ref
 
 
 ## ⚙️Deployment and hosting
+```
+cd exampleSite &&  hugo --gc --themesDir ../.. --minify --baseURL "https://google-search-console-bulk-url-removal-tool.com"
+```
 
 [![Deploy to
 Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gethugothemes/influencer-hugo)

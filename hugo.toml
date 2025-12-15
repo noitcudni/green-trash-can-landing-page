@@ -2,7 +2,7 @@
 # The base URL of your site (required). This will be prepended to all relative URLs.
 baseURL = "/"
 # Title of your website (required).
-title = "Andromeda - Software and SAAS Landing Hugo Theme"
+title = "Google Search Console - Bulk URL Removal"
 # Your theme name
 theme = "andromeda-light-hugo"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
@@ -110,7 +110,7 @@ black = "#000000"
 light = "#FAFAFA"
 
 # font variables
-# base font size for full website, 
+# base font size for full website,
 font_size = "16px" # default is 16px
 
 # Font Scale Sizes

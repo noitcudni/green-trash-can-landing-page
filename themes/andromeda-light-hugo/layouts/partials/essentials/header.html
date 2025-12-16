@@ -94,7 +94,7 @@
                 {{ $active := eq $menuURL $pageURL }}
                 {{ if .HasChildren }}
                   <li
-                    class="nav-item dropdown 
+                    class="nav-item dropdown
                   {{ range .Children }}
                       {{ $childURL := .URL | absLangURL }}
                       {{ $active := eq $childURL $pageURL }}
@@ -196,7 +196,7 @@
               <div class="navbar-right">
                 <a
                   href="{{ site.Params.navigation_button.link | relURL }}"
-                  class="btn btn-primary">
+                  class="btn btn-success">
                   {{ site.Params.navigation_button.label }}
                 </a>
               </div>

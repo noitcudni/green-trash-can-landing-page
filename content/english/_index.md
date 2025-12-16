@@ -3,7 +3,7 @@
 banner:
   title: "Google Search Console - Bulk URL Removal"
   button: "Get the chrome extension"
-  button_link: "https://gethugothemes.com/products/andromeda/"
+  button_link: "https://chromewebstore.google.com/detail/google-search-console-bul/plcmmfcfbnddbomdlnklhepfkkdmodkf?hl=en&pli=1"
   image: "images/banner-app.png"
 
 # brands

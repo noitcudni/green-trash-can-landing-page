@@ -103,7 +103,7 @@ button = "I Accept"
 # call-to-action
 [cta]
 enable = true
-title = "Title"
-content = "The Fastest Bulk URL Removal Solution"
+title = "GSC Bulk URL Removal"
+content = "The Fastest Bulk URL Removal Solution - Remove 1000 URLs in 10 minutes"
 button = "Install the chrome extension"
 button_link = "https://chromewebstore.google.com/detail/google-search-console-bul/plcmmfcfbnddbomdlnklhepfkkdmodkf?hl=en&pli=1"

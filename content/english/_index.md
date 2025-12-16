@@ -1,8 +1,8 @@
 ---
 # banner
 banner:
-  title: "Andromeda is the most intuitive way to prototype Designs"
-  button: "Get Premium Version"
+  title: "Google Search Console - Bulk URL Removal"
+  button: "Get the chrome extension"
   button_link: "https://gethugothemes.com/products/andromeda/"
   image: "images/banner-app.png"
 
@@ -59,7 +59,7 @@ intro_video:
 
 
 # how_it_works
-how_it_works:   
+how_it_works:
   enable: true
   block:
   - subtitle: "Primary Speciality"

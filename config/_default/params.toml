@@ -12,7 +12,7 @@ logo_webp = true
 logo_text = "Google Search Console - Bulk URL Removal"
 
 # footer information
-footer_info = "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat."
+# footer_info = "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat."
 
 # contact form action
 contact_form_action = "https://formspree.io/f/xgernlzd" # contact form works with https://formspree.io
@@ -41,8 +41,8 @@ preloader = "images/favicon.png" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "Buy Premium"
-link = "https://gethugothemes.com/products/andromeda/"
+label = "Install Now"
+link = "https://chromewebstore.google.com/detail/google-search-console-bul/plcmmfcfbnddbomdlnklhepfkkdmodkf?hl=en&pli=1"
 
 
 # seo meta data for OpenGraph / Twitter Card
@@ -103,7 +103,7 @@ button = "I Accept"
 # call-to-action
 [cta]
 enable = true
-title = "Helping teams in the world with focus"
-content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
-button = "Buy Premium"
-button_link = "https://gethugothemes.com/products/andromeda/"
+title = "Title"
+content = "The Fastest Bulk URL Removal Solution"
+button = "Install the chrome extension"
+button_link = "https://chromewebstore.google.com/detail/google-search-console-bul/plcmmfcfbnddbomdlnklhepfkkdmodkf?hl=en&pli=1"

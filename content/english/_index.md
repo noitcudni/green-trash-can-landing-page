@@ -7,27 +7,27 @@ banner:
   image: "images/turbo-bulk-url-removal.gif"
 
 # brands
-brands_carousel:
-  enable: true
-  brand_images:
-    - "images/brands/01-colored.png"
-    - "images/brands/02-colored.png"
-    - "images/brands/04-colored.png"
-    - "images/brands/03-colored.png"
-    - "images/brands/05-colored.png"
-    - "images/brands/06-colored.png"
-    - "images/brands/04-colored.png"
-    - "images/brands/02-colored.png"
-    - "images/brands/01-colored.png"
-    - "images/brands/06-colored.png"
-    - "images/brands/05-colored.png"
+# brands_carousel:
+#   enable: true
+#   brand_images:
+#     - "images/brands/01-colored.png"
+#     - "images/brands/02-colored.png"
+#     - "images/brands/04-colored.png"
+#     - "images/brands/03-colored.png"
+#     - "images/brands/05-colored.png"
+#     - "images/brands/06-colored.png"
+#     - "images/brands/04-colored.png"
+#     - "images/brands/02-colored.png"
+#     - "images/brands/01-colored.png"
+#     - "images/brands/06-colored.png"
+#     - "images/brands/05-colored.png"
 
 # features
 features:
   enable: true
   subtitle: "Special Features"
-  title: "Elements to <br> get you started"
-  description: "Lorem ipsum dolor sit amet, consecteturre adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
+  title: "Turbo Mode"
+  description: ""
   features_blocks:
     - icon: "las la-lock"
       title: "Updated Security"

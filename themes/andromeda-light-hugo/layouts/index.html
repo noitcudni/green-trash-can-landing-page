@@ -81,15 +81,19 @@
             </div>
 
             {{ with .image }}
-              <div class="banner-image" data-aos="fade-up" data-aos-delay="300">
-                <div class="row justify-content-center">
-                  <div class="col-lg-10">
-                    {{ partial "image.html" (dict "Src" . ) }}
-                  </div>
+            <div class="banner-image-container col-lg-10 mx-auto" style="background-color: #132A13; padding: 40px 10px 0px 10px; border-radius: 10px;" data-aos="fade-up" data-aos-delay="300">
+                <div class="banner-text" style="color: white; text-align: center; font-size: 32px; font-weight: bold; margin-bottom: 20px;">
+                    The fastest BULK url removal solution
                 </div>
-              </div>
+                <div class="banner-image">
+                <div class="row justify-content-center">
+                    <div class="col-lg-10">
+                    {{ partial "image.html" (dict "Src" . ) }}
+                    </div>
+                </div>
+                </div>
+            </div>
             {{ end }}
-
 
             <div class="has-circle">
               <span class="circle-1 ratio-32" data-rellax-speed="-2"></span>

@@ -96,27 +96,27 @@
             </div>
           </div>
 
-          {{ with site.Params.contact_info.phone }}
-            <div
-              class="col-xl-3 col-lg-4 col-md-6 contact-widget"
-              data-aos="fade-up">
-              <div class="block text-center">
-                <h3 class="mb-4">{{ T `phone` }}</h3>
-                <ul class="list-unstyled">
-                  {{ range . }}
-                    {{ if . }}
-                      <li>
-                        <a href="tel:{{ . }}"
-                          ><i class="las la-phone"></i>{{ . }}</a
-                        >
-                      </li>
-                    {{ end }}
-                  {{ end }}
-                </ul>
-              </div>
-            </div>
-          {{ end }}
-
+          <!-- {{ with site.Params.contact_info.phone }}
+               <div
+               class="col-xl-3 col-lg-4 col-md-6 contact-widget"
+               data-aos="fade-up">
+               <div class="block text-center">
+               <h3 class="mb-4">{{ T `phone` }}</h3>
+               <ul class="list-unstyled">
+               {{ range . }}
+               {{ if . }}
+               <li>
+               <a href="tel:{{ . }}"
+               ><i class="las la-phone"></i>{{ . }}</a
+               >
+               </li>
+               {{ end }}
+               {{ end }}
+               </ul>
+               </div>
+               </div>
+               {{ end }}
+          -->
           {{ with site.Params.contact_info.email }}
             <div
               class="col-xl-3 col-lg-4 col-md-6 contact-widget"

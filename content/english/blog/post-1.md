@@ -1,5 +1,5 @@
 ---
-date: "2021-07-14"
+date: "2025-12-24"
 title: "Bulk URL Removal for Google Search Console, Now 100× Faster"
 image: "images/blog/overclocked-fire-tv-speed-guage.jpg"
 author: "Lih Chen"

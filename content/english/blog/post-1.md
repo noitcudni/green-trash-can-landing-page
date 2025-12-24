@@ -1,23 +1,20 @@
 ---
 date: "2021-07-14"
-title: "The Real Product From the Buyers improvements in Overflow basis."
-image: "images/blog/01.jpg"
-author: "Abdullah Al Shifat"
+title: "Bulk URL Removal for Google Search Console, Now 100× Faster"
+image: "images/blog/overclocked-fire-tv-speed-guage.jpg"
+author: "Lih Chen"
 draft: false
 ---
+I’ve been maintaining this project since 2013. Over the years, countless edge cases and bugs have been resolved, and many UI/UX improvements have been introduced. Through it all, the core mission has remained the same: automate tedious tasks and give you back time to focus on what matters most.
 
-Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in. Ultrices in nisl potenti vitae tempus. Auctor consectetur luctus eu in amet sagittis. Dis urna, vel hendrerit convallis Senectus feugiat faucibus commodo egestas leo vitae in morbi. Enim arcu dignissim mauris, eu, eget
+Today, I’m excited to share an update that takes that mission even further. With this release, you can now remove up to 1,000 URLs in roughly 10 minutes in one session. What once took hours is now a true set-and-forget process. There’s no need to babysit the workflow or periodically check that everything is running smoothly—just click submit, grab a coffee, and come back to a completed task.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec et ipsum ullamcorper venenatis fringilla. Pretium, purus eu nec vulputate vel habitant egestas. Congue ornare at ipsum, viverra. Vitae magna faucibus eros, lectus sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit in ornare turpis posuere. Eu quisque integer non rhoncus elementum vel. Quis nec viverra lectus augue nec praesent
+The workflow itself remains unchanged. You start by preparing a CSV file containing the URLs you want removed and submit it to the extension. The extension performs the initial removal through Google Search Console’s UI. After that, you’ll no longer see visible UI activity in Search Console, but the progress bar will continue to update in real time. Once all URLs have been submitted for removal, a confirmation alert will appear. After clicking OK, the page will automatically refresh, and you’ll see that all URLs have been successfully submitted.
 
-Pharetra odio amet pellentesque. Egestas nisi adipiscing sed in lectus. Vitae ultrices malesuada aliquet Faucibus consectetur tempus adipiscing vitae. Nec blandit tincidunt nibh nisi, quam volutpat. In lacus laoreet diam risus. Mauris, risus faucibus sagittis sagittis tincidunt id justo. Diam massa pretium consequat mauris viverra. Sagittis eu libero
+In the interest of full transparency, there is a small caveat. Because the removal process no longer runs entirely through Google Search Console’s UI, error messages may not always be precise and can be misleading. For now, all errors are reported as duplicate request errors.
 
-> Facing a challenge in life is kind of a turn-on for an easy rider. When life gives you lemons, use them in your designs
+If you’ve ever had to remove URLs fast, this update is built for you
+
+> With this release, you can now remove up to 1,000 URLs in roughly 10 minutes in one session
 >
-> <cite>!Alexender Smith</cite>
-
-Consectetur adipiscing elit. Nec et ipsum ullamcorper venenatis fringilla. Pretium, purus eu nec vulputate vel habitant egestas. Congue ornare at ipsum, viverra. Vitae magna faucibus eros, lectus sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit in ornare turpis posuere. Eu quisque integer non rhoncus elementum vel. Quis nec viverra lectus augue nec praesent volutpat tortor. Ipsum eget sed tempus luctus nisl. Ut etiam molestie mattis at faucibus mi at pellentesque. Pellentesque morbi nunc, curabitur arcu euismod suscipit. Duis mi sapien, donec non dictum
-
-Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in. Ultrices in nisl potenti vitae tempus. Auctor consectetur luctus eu in amet sagittis. Dis urna, vel hendrerit convallis cursus id.
-
-Senectus feugiat faucibus commodo egestas leo vitae in morbi. Enim arcu dignissim mauris, eu, eget pharetra odio amet pellentesque. Egestas nisi adipiscing sed in lectus. Vitae ultrices malesuada aliquet dignissim. Faucibus non tristique eu.
+> <cite></cite>

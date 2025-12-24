@@ -56,7 +56,7 @@ intro_video:
 
 # how_it_works
 how_it_works:
-  enable: true
+  enable: false
   block:
   - subtitle: "Primary Speciality"
     title: "You Will Not miss Your All misunderstandings"
@@ -74,38 +74,32 @@ testimonials:
   enable: true
   subtitle: "Our Testimonial"
   title: "Don't take our word for it"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
+  # description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
   image_left: "images/testimonials-01.png"
   image_right: "images/testimonials-02.png"
 
   testimonials_quotes:
-    - quote: "Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs dolor faucibus"
-      name: "David Cameron"
-      designation: "CEO, Nexuspay"
-      image: "images/user-img/05-i.jpg"
+    - quote: "Very helpful and sped up my work in the search console massively! Developer contact very friendly as well."
+      name: "Christopher Eller"
+      image: "images/user-img/review-1.jpg"
 
-    - quote: "Conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor faucibus"
-      name: "David Cameron"
-      designation: "CEO, Nexuspay"
-      image: "images/user-img/06-i.jpg"
+    - quote: "So glad I finally found this. It *massively* sped up my cleanup project. It would occasionally stop running the script, but there's a play button to restart and it doesn't lose its spot."
+      name: "Anne Keery"
+      image: "images/user-img/review-2.jpg"
 
-    - quote: "Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor"
-      name: "David Cameron"
-      designation: "CEO, Nexuspay"
-      image: "images/user-img/07-i.jpg"
+    - quote: "Fantastic Extension for Bulk URL Removal – Outstanding Support! I recently needed to remove over 700 URLs from Google using the Search Console, and this Chrome extension was exactly what I needed!"
+      name: "Rob Lucas"
+      image: "images/user-img/review-3.png"
 
-    - quote: "Lorem ipsum dolor amet, conseetur adipiscing elit. porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor faucibus"
-      name: "David Cameron"
-      designation: "CEO, Nexuspay"
-      image: "images/user-img/08-i.jpg"
+    - quote: "This extension saved me countless hours and a lot of stress. Thank you for creating it!"
+      name: "Amir Sabetian"
+      image: "images/user-img/review-3.png"
 
-    - quote: "Lorem ipsum dolor ame conseetur. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor faucibus"
-      name: "David Cameron"
-      designation: "CEO, Nexuspay"
-      image: "images/user-img/09-i.jpg"
+    - quote: "I have been using this extension for a while now. This new release has some great improvements. Highly recommended."
+      name: "Erick Mashney"
+      image: "images/user-img/review-3.png"
 
-    - quote: "Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue lectudbfs pellentesque vitae dolor faucibus"
-      name: "David Cameron"
-      designation: "CEO, Nexuspay"
-      image: "images/user-img/10-i.jpg"
+    - quote: "Fantastic Extension for Bulk URL Removal – Outstanding Support! I recently needed to remove over 700 URLs from Google using the Search Console, and this Chrome extension was exactly what I needed!."
+      name: "Rob Lucas"
+      image: "images/user-img/review-3.jpg"
 ---

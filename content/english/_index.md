@@ -50,8 +50,8 @@ intro_video:
   enable: true
   title: "Watch the Latest Demo"
   description: "Shown in real speed. No sped up."
-  video_url: "https://www.youtube.com/embed/dyZcRRWiuuw"
-  video_thumbnail: "images/video-popup.jpg"
+  video_url: "https://www.youtube.com/embed/cA03WtlLB48?si=yM7f-y9pvhqYGBMg"
+  video_thumbnail: "images/turbo-bulk-url-removal.gif"
 
 
 # how_it_works
